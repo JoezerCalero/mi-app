@@ -8,7 +8,7 @@
 }
 
 body {
-  background-image: url('mi-app/public/delete.jpg');
+  background-image: url('/delete.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
