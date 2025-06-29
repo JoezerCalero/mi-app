@@ -7,11 +7,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          SI O NO MARINO??
         </p>
         {/*<a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer"> </a>*/}
           <p>
-          SI O NO MARINO??  
+          SI SEÑOOOOOOR  
           </p>
       </header>
     </div>
