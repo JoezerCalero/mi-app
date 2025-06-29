@@ -7,14 +7,6 @@
   pointer-events: none;
 }
 
-body {
-  background-image: url('/delete.jpg');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  min-height: 100vh;
-  margin: 0;
-}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
