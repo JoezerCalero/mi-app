@@ -15,7 +15,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #4e1081;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -36,15 +36,4 @@
   to {
     transform: rotate(360deg);
   }
-}
-
-/* App.css */
-body {
-  margin: 0;
-  padding: 0;
-  background-image: url('/fondo.jpg'); /* La ruta es relativa a /public */
-  background-size: cover; /* Ajusta la imagen para cubrir toda la pantalla */
-  background-position: center; /* Centra la imagen */
-  background-repeat: no-repeat; /* Evita que se repita */
-  height: 100vh; /* Opcional: asegura que cubra toda la altura */
 }
